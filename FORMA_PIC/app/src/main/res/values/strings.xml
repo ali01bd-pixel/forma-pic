@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FORMA PIC</string>
+    <string name="app_tagline">Professional Photography. Simplified.</string>
+    <string name="about_creator">Created by ALI</string>
+    <string name="about_description">FORMA PIC is a production-grade computational photography, DSLR manual control, and AI photo enhancement studio designed to capture natural, sharp, high-dynamic-range photos and cinematic video across compatible Android devices.</string>
+    <string name="privacy_summary">100% On-Device Privacy: All computational HDR merging, low-light noise reduction, portrait bokeh segmentation, and AI photo enhancement execute locally on your phone hardware. FORMA PIC never uploads your photos, videos, or facial data to external servers.</string>
+</resources>
